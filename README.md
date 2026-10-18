@@ -1,4 +1,34 @@
-# [ClearCareer](http://startbootstrap.com/) 
+# emersondll.github.io
+
+> Página de portfólio pessoal de Emerson Lima, desenvolvedor Java, publicada via GitHub Pages.
+
+## Visão Geral
+
+Site de currículo/portfólio one-page, disponível em [emersondll.github.io](https://emersondll.github.io), apresentando apresentação pessoal, experiência, habilidades e links de contato (GitHub, LinkedIn, Instagram) de Emerson Lima. O projeto é baseado no tema [ClearCareer](http://startbootstrap.com/) ([Resume](https://izzydoesizzy.github.io/resumetemplate/)), um tema criativo de uma página para [Bootstrap](http://getbootstrap.com/) criado por [Izzy Piyale-Sheard](http://izzydoesizzy.com/).
+
+## Tecnologias
+
+- HTML5 / CSS3
+- Bootstrap
+- jQuery
+- GitHub Pages (hospedagem)
+
+## Como Executar Localmente
+
+Como é um site estático, basta abrir o arquivo `index.html` diretamente no navegador, ou servir a pasta com qualquer servidor HTTP estático.
+
+## Estrutura do Projeto
+
+```
+.
+├── index.html     # Página principal do portfólio
+├── css/           # Estilos (style.css, timeline.css)
+├── js/            # Scripts (jQuery, Bootstrap, scripts.js)
+├── fonts/         # Ícones (Glyphicons)
+└── images/        # Imagens do site
+```
+
+## [ClearCareer](http://startbootstrap.com/) 
 
 [Resume](https://izzydoesizzy.github.io/resumetemplate/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Izzy Piyale-Sheard](http://izzydoesizzy.com/).
 
